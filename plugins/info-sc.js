@@ -13,7 +13,7 @@ Hello kak ${ye} Lagi Nyari Sc Ya?
 
 📮 𝘊𝘈𝘙𝘐 𝘈𝘑𝘈 𝘋𝘐 𝘠𝘖𝘜 𝘛𝘜𝘉𝘌
 
-➵͜͡✪ sc : Masih Tahab Pengembangan
+➵͜͡✪ sc : Masih Tahab Pengembangan /KRIZYN-MD
 
 conn.sendBut(m.chat, esce, '📮 𝘋𝘰𝘯𝘵 𝘧𝘰𝘳𝘨𝘦𝘵 𝘵𝘰 𝘧𝘰𝘭𝘭𝘰𝘸 𝘮𝘺 𝘢𝘤𝘤𝘰𝘶𝘯𝘵', 'Thanks', '.menu', m) 
 }
