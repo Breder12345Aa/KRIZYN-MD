@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6283183321692'] 
+global.owner = ['6285770575380'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = '☞︎︎︎«««𓇽««✰𝙱𝚢𝚎✰»»𓇽»»»☜︎︎︎'
-global.numberowner = '6283183321692'
+global.numberowner = '6285770575380'
 global.instagram = '_'
 global.github = 'https://github.com/krizynofc'
 global.dana = '081360482998'
