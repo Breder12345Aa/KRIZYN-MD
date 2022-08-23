@@ -1,20 +1,20 @@
 //=============『 Utama 』================== //
-global.owner = ['6285770575380'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['6283183321692'] 
+global.mods = ['6283183321692'] 
+global.prems = ['6283183321692'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '☞︎︎︎«««𓇽««✰𝙱𝚢𝚎✰»»𓇽»»»☜︎︎︎'
-global.numberowner = '6285770575380'
+global.nameowner = '𝑇𝑧𝑝𝑒𝑟'
+global.numberowner = '6283183321692'
 global.instagram = '_'
-global.github = 'https://github.com/krizynofc'
-global.dana = '081360482998'
+global.github = 'https://github.com/Breder12345Aa'
+global.dana = '083183321692'
 global.pulsa = '083183321692'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = '✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
+global.namebot = '𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇'
+global.gc = '! Minta ke Owner !'
 global.web = 'https://wa.me/6283183321692' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'NIH KAK LIST SEWA NYA\n\n》1 MINGGU Rp 10.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 15.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻𝙺𝚁𝙸𝚉𝚈𝙽 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳'
+global.wm = '↻𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇'
 global.watermark = wm
-global.wm2 = ' ⊙────────❲ ᯤ ✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰ ❳'
-global.wm3 = 'ᯤ ✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰'
+global.wm2 = ' ⊙────────❲ 𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇 ❳'
+global.wm3 = ' ✰𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇✰'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = '✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰'
-global.author = '@mhdfakri_'
+global.packname = '✰𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇✰'
+global.author = '@𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇_'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
