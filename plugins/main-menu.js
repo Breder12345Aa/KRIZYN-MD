@@ -46,7 +46,7 @@ const defaultMenu = {
   header: '╭─㉿ 〔 %category 〕 ㉿─\n┃',
   body: '┃⫹⫺ %cmd %islimit %isPremium',
   footer: '┃\n╰────────㉿\n', 
-  footerText: 'Powered by ᯤ ✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰',
+  footerText: 'Powered by ᯤ 𝑇𝑧𝑝𝑒𝑟 𝐵𝑂𝑇',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
