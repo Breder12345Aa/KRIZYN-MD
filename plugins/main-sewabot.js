@@ -22,14 +22,14 @@ let krizyn = `
            hydratedButtons: [{
              urlButton: {
                displayText: 'Saweria',
-               url: 'https://saweria.co/Kricom'
+               url: 'https://wa.me/6283183321692'
              }
 
            },
                 {
                urlButton: {
                displayText: 'Myweb',
-               url: 'https://lynk.id/kri.com'
+               url: 'https://wa.me/6283183321692'
              }
 
            },
